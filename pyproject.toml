@@ -1,0 +1,7 @@
+[build-system]
+requires = ["setuptools>=62", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "prelude"
+version = "0.1.0"

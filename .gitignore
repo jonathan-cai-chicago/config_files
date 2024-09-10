@@ -1,0 +1,20 @@
+__pycache__
+
+# pydoit database
+.doit.db*
+
+# binaries
+process_book
+process_tas
+
+# egg-info
+*.egg-info*
+
+build/
+
+## intermediate data
+data/
+docs/
+
+# local tests
+test/
